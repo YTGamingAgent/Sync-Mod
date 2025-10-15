@@ -1,0 +1,33 @@
+{
+  "block.sync_mod.shell_constructor": "Shell Constructor",
+  "block.sync_mod.shell_storage": "Shell Storage",
+  "block.sync_mod.treadmill": "Treadmill",
+  "item.sync_mod.sync_core": "Sync Core",
+  "itemGroup.sync_mod.items": "Sync Mod",
+
+  "sync.shell.ready": "Shell is ready! Right-click again to activate.",
+  "sync.shell.constructing": "Shell construction in progress...",
+  "sync.shell.started": "Shell construction started!",
+
+  "sync_mod.subtitle.shell_construction_start": "Shell construction starts",
+  "sync_mod.subtitle.shell_construction_progress": "Shell construction progresses",
+  "sync_mod.subtitle.shell_construction_complete": "Shell construction completes",
+  "sync_mod.subtitle.shell_activate": "Shell activates",
+  "sync_mod.subtitle.shell_deactivate": "Shell deactivates",
+  "sync_mod.subtitle.shell_sync": "Consciousness syncs",
+
+  "sync_mod.subtitle.treadmill_start": "Treadmill starts",
+  "sync_mod.subtitle.treadmill_running": "Treadmill running",
+  "sync_mod.subtitle.treadmill_stop": "Treadmill stops",
+  "sync_mod.subtitle.treadmill_overheat": "Treadmill overheats",
+
+  "sync_mod.subtitle.storage_open": "Shell storage opens",
+  "sync_mod.subtitle.storage_close": "Shell storage closes",
+  "sync_mod.subtitle.storage_power_on": "Storage powers on",
+  "sync_mod.subtitle.storage_power_off": "Storage powers off",
+
+  "sync_mod.subtitle.fingerstick_use": "Fingerstick pricks",
+  "sync_mod.subtitle.energy_transfer": "Energy flows",
+  "sync_mod.subtitle.error": "Error",
+  "sync_mod.subtitle.success": "Success"
+}

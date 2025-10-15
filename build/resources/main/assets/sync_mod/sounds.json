@@ -1,0 +1,119 @@
+{
+  "shell_construction_start": {
+    "subtitle": "sync_mod.subtitle.shell_construction_start",
+    "sounds": [
+      "sync_mod:shell_construction_start"
+    ]
+  },
+  "shell_construction_progress": {
+    "subtitle": "sync_mod.subtitle.shell_construction_progress",
+    "sounds": [
+      {
+        "name": "sync_mod:shell_construction_progress",
+        "volume": 0.5
+      }
+    ]
+  },
+  "shell_construction_complete": {
+    "subtitle": "sync_mod.subtitle.shell_construction_complete",
+    "sounds": [
+      "sync_mod:shell_construction_complete"
+    ]
+  },
+  "shell_activate": {
+    "subtitle": "sync_mod.subtitle.shell_activate",
+    "sounds": [
+      "sync_mod:shell_activate"
+    ]
+  },
+  "shell_deactivate": {
+    "subtitle": "sync_mod.subtitle.shell_deactivate",
+    "sounds": [
+      "sync_mod:shell_deactivate"
+    ]
+  },
+  "shell_sync": {
+    "subtitle": "sync_mod.subtitle.shell_sync",
+    "sounds": [
+      "sync_mod:shell_sync"
+    ]
+  },
+  "treadmill_start": {
+    "subtitle": "sync_mod.subtitle.treadmill_start",
+    "sounds": [
+      "sync_mod:treadmill_start"
+    ]
+  },
+  "treadmill_running": {
+    "subtitle": "sync_mod.subtitle.treadmill_running",
+    "sounds": [
+      {
+        "name": "sync_mod:treadmill_running",
+        "stream": true
+      }
+    ]
+  },
+  "treadmill_stop": {
+    "subtitle": "sync_mod.subtitle.treadmill_stop",
+    "sounds": [
+      "sync_mod:treadmill_stop"
+    ]
+  },
+  "treadmill_overheat": {
+    "subtitle": "sync_mod.subtitle.treadmill_overheat",
+    "sounds": [
+      "sync_mod:treadmill_overheat"
+    ]
+  },
+  "storage_open": {
+    "subtitle": "sync_mod.subtitle.storage_open",
+    "sounds": [
+      "sync_mod:storage_open"
+    ]
+  },
+  "storage_close": {
+    "subtitle": "sync_mod.subtitle.storage_close",
+    "sounds": [
+      "sync_mod:storage_close"
+    ]
+  },
+  "storage_power_on": {
+    "subtitle": "sync_mod.subtitle.storage_power_on",
+    "sounds": [
+      "sync_mod:storage_power_on"
+    ]
+  },
+  "storage_power_off": {
+    "subtitle": "sync_mod.subtitle.storage_power_off",
+    "sounds": [
+      "sync_mod:storage_power_off"
+    ]
+  },
+  "fingerstick_use": {
+    "subtitle": "sync_mod.subtitle.fingerstick_use",
+    "sounds": [
+      "sync_mod:fingerstick_use"
+    ]
+  },
+  "energy_transfer": {
+    "subtitle": "sync_mod.subtitle.energy_transfer",
+    "sounds": [
+      {
+        "name": "sync_mod:energy_transfer",
+        "volume": 0.3
+      }
+    ]
+  },
+  "error": {
+    "subtitle": "sync_mod.subtitle.error",
+    "sounds": [
+      "sync_mod:error"
+    ]
+  },
+  "success": {
+    "subtitle": "sync_mod.subtitle.success",
+    "sounds": [
+      "sync_mod:success"
+    ]
+  }
+}

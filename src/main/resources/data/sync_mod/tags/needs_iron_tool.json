@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "sync_mod:shell_constructor",
+    "sync_mod:shell_storage"
+  ]
+}
